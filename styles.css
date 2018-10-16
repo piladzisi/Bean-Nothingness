@@ -1,3 +1,6 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
 h1{
 	color:black;
 }
@@ -31,7 +34,7 @@ button{
 	 border-color: #743A0A;
 	 border-radius: 8px;
 	 font-size: 16px;
-	    }
+   }
 button:hover {
 	background-color: #77090b;
 }
