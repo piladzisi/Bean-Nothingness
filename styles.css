@@ -4,3 +4,37 @@ h1{
 li{
 	color:#743A0A;
 }
+
+/*a:link, a:visited {
+    background-color: #940C0E;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+*/
+a:link,a:visited {
+    color: white;
+    text-align: center; 
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    background-color: red;
+    text-decoration: underline;
+}
+
+button{
+	background-color: #940C0E;
+	 padding: 12px 30px;
+	 border-color: #743A0A;
+	 border-radius: 8px;
+	 font-size: 16px;
+	    }
+button:hover {
+	background-color: #77090b;
+}
+nav{
+
+}
